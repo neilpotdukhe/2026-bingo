@@ -10,7 +10,7 @@
 | Backflip | ⬜ Not Started | |
 | Dunk basketball | ⬜ Not Started | |
 | Sub 24 min 5k | ⬜ Not Started | |
-| Tennis 4.0 rating | ⬜ Not Started | ~3.0 currently |
+| Tennis 4.0 rating | 🟡 In Progress | ~3.0 currently |
 | Swim all strokes | ⬜ Not Started | |
 | 20 soccer ball taps | ⬜ Not Started | |
 | Tai chi basics | ⬜ Not Started | |
@@ -63,4 +63,37 @@
 ## Quick Stats
 - **Total:** 25 goals
 - **Completed:** 0/25
-- **In Progress:** 1/25
+- **In Progress:** 2/25
+
+---
+
+## System: How This Repo Works
+
+**This repo is the source of truth for all goal-related context.**
+
+### Principles
+1. **Log everything relevant** - When doing research, planning, or learning something useful, add it to the goal's `plan.md` or `log.md`
+2. **Prune ruthlessly** - Only keep high-signal tokens. Delete outdated info, redundant notes, and anything that's no longer actionable
+3. **Actionable > Aspirational** - Plans should have concrete next steps, not vague intentions
+4. **Review weekly** - Revisit active goals, update status, prune stale content
+
+### File Structure Per Goal
+```
+goal-name/
+├── plan.md    # Strategy, resources, phased approach
+└── log.md     # Session logs, match records, progress notes
+```
+
+### When Adding Context
+Ask: "Will future-me need this to make a decision or take action?"
+- Yes → Add it, keep it concise
+- No → Don't add it, or delete it if it exists
+
+### Keeping Me Honest
+If you notice:
+- Stale plans with no recent activity
+- Goals that should be in progress but aren't
+- Missing context that would help execution
+- Fluff that should be pruned
+
+**Call it out.** The goal is continuous improvement, not documentation theater.
