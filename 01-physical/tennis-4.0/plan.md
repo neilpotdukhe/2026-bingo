@@ -38,13 +38,33 @@ Consider one of these for accelerated improvement:
 
 ## Resources
 
-### Local Coaching (Seattle, 30-40 min radius)
-| Option | Location | Notes |
-|--------|----------|-------|
-| Amy Yee Tennis Center | Seattle | Affordable, Coach Garza highly rated |
-| Tennis Center Sand Point | Seattle | Strong adult program, hosts USTA leagues |
-| Basha Tennis | Mountlake Terrace (~25 min) | Coaches actively compete, good for tactics |
-| Gorin Tennis Academy | Seattle area | GPTCA Level A certified, 20+ yrs pro circuit |
+### Recommended Private Coaches (3.0 → 4.0 specialists)
+
+**Tier 1: Best Fit**
+| Coach | Platform | Price | Rating | Notes |
+|-------|----------|-------|--------|-------|
+| Patrick Donnelly | [TeachMe.to](https://teachme.to/browse/tennis/washington/seattle) | $103/hr | 4.9 (214 reviews) | 15 yrs. Specializes in intermediate stroke/serve improvement. Super Coach. |
+| Geoffrey Garza | [TeachMe.to](https://teachme.to/browse/tennis/washington/seattle) / Amy Yee | $135/hr | 5.0 (20 reviews) | Specializes in 3.0→3.5 progression. "Keen eye" for adjustments. |
+| Anhtu H. | [MyTennisLessons](https://mytennislessons.com/profile/anhtu-h) | $115/hr | 37 reviews | USPTA Certified. 25 yrs. Plays USTA himself. Patient, foundations-focused. |
+| Michael Do | [TeachMe.to](https://teachme.to/browse/tennis/washington/seattle) | $71/hr | 4.9 (20 reviews) | USTA-certified. **Best value** - half price, strong reviews. |
+
+**Tier 2: Strong Alternatives**
+| Coach | Platform | Price | Notes |
+|-------|----------|-------|-------|
+| Alex Martinez Roca | [TeachMe.to](https://teachme.to/browse/tennis/washington/seattle) | $149/hr | College player, UTR 12.6. Super Coach. Competitive play focus. |
+| Steven W. | [MyTennisLessons](https://mytennislessons.com/locations/seattle-tennis-lessons) | $125/hr | USPTA + PTR dual certified. 45 yrs. "Fun, Fitness and Forehands!" |
+| Travis Roach | [Eastside Tennis Center](https://www.yelp.com/biz/eastside-tennis-center-kirkland) | Varies | Program Manager at ETC. Coached at UW, Ballard HS, Mercer Island. |
+| Darrell | [PRO Club Bellevue](https://www.proclub.com/club/fitness-and-sports/tennis) | Members | Tennis Director since 1985. Trained at Bollettieri + Hopman academies. |
+
+### Local Facilities (Indoor options for rainy days)
+| Facility | Location | Notes |
+|----------|----------|-------|
+| Eastside Tennis Center | Kirkland (~20 min) | Affordable indoor, strong adult programs, "Tennis for Everyone" |
+| Robinswood Tennis Center | Bellevue | Public, has intermediate adult classes |
+| Gorin Tennis | Bellevue (Bel-Red) | 3.0-3.5 and 4.0-4.5 clinics. No membership needed. |
+| Pro Tennis Seattle | SODO (~15 min) | Private indoor facility, all levels |
+| Amy Yee Tennis Center | Seattle | Affordable indoor, Coach Garza |
+| Tennis Center Sand Point | Seattle | Semi-public (<$150/yr), 10 indoor courts, hosts USTA |
 
 ### League Play (Critical for improvement)
 | League | Link | Notes |
